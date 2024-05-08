@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+#btn{
+	border: 1px solid #54d9ff;
+    background: #b3eeff;
+    border-radius: 10px;
+	margin-top:20px;
+	width: 220px;
+	height: 45px;
+	color:#004c7a;
+	
+}
